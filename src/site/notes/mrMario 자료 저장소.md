@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mr-mario/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/mr-mario/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
