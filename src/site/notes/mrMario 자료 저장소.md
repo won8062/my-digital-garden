@@ -13,3 +13,7 @@
 - 자료 정리가 쉬워야 한다 → Obsidian 
 - 검색이 빠르고 다양한 조건을 부여할 수 있어야 한다 → 데브온씽크(DevOnThink) 
 
+
+## 연결 문서 
+--- 
+- [[Obsidian/옵시디언(Obsidian) 플러그인 Digital Garden\|옵시디언(Obsidian) 플러그인 Digital Garden]]
