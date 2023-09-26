@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/works/cost-pivot/","noteIcon":""}
 ---
 
-#메가존 #cost_pivot 
+#메가존 #cost_pivot #works
 
 
 - 필터 설정 
