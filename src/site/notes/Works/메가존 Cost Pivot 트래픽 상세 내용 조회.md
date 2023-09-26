@@ -6,10 +6,8 @@
 
 
 - 필터 설정 
-
-![Pasted image 20230927074307.png](/img/user/FILES/Pasted%20image%2020230927074307.png)
-
+![](https://i.imgur.com/6FdvfqI.png)
 
 - 조회 항목 
+![](https://i.imgur.com/VXjnReS.png)
 
-![Pasted image 20230927074501.png](/img/user/FILES/Pasted%20image%2020230927074501.png)
