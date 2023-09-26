@@ -3,13 +3,6 @@
 ---
 
 
-```
----
-dg-home: true
-dg-publish: true
----
-```
-
 
 
 드디어 Obsidian 을 이용해 자료를 관리하기 시작했다. 
